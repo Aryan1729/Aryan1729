@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aryan1729
-- 👀 I’m interested in competitive programming and development.
-- 🌱 I’m currently learning backend and DSA.
-- 💞️ I’m looking to collaborate on some exiting and amazing people
+👋 Hi, I’m @Aryan1729
+👀 I’m interested in competitive programming and development.
+🌱 I’ve learned backend development and data structures and algorithms (DSA).
+💞️ I’m looking to collaborate with exciting and amazing people.
 - 📫 How to reach me https://www.linkedin.com/in/aaryan-raj-38aa13213
 
 <!---
