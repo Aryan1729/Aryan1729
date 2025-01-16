@@ -1,4 +1,4 @@
-👋 Hi, I’m @Aryan1729
+👋 Hi, I’m Aryan Raj
 👀 I’m interested in competitive programming and development.
 🌱 I’ve learned backend development and data structures and algorithms (DSA).
 💞️ I’m looking to collaborate with exciting and amazing people.
